@@ -23,9 +23,7 @@ set(BULLET_PHYSICS_LIB  "/opt/bullet3/build_cmake/local_install/lib")
 
 # build
 ```
-  git clone https://github.com/MinchangSung0223/bullet3_GUI_cmake_template.git
-  cd bullet3_GUI_cmake_template
-  mkdir build && cd build &&  cmake ..
-  make -j$(nproc)
-
+  git clone https://github.com/MinchangSung0223/bullet3_robotsim_cmake_template.git
+  cd bullet3_robotsim_cmake_template 
+  ./build.sh
 ```
