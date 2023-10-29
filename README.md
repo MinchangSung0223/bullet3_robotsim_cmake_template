@@ -27,3 +27,9 @@ set(BULLET_PHYSICS_LIB  "/opt/bullet3/build_cmake/local_install/lib")
   cd bullet3_robotsim_cmake_template 
   ./build.sh
 ```
+
+# Start
+./robotSim <urdfPath> <with_GUI>
+```bash
+  ./robotSim urdf/satellite/arm.urdf 1
+```
