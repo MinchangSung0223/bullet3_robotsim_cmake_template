@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLR.a  CMakeFiles/LR.dir/LR_Control.cpp.o CMakeFiles/LR.dir/liegroup_robotics.cpp.o
+/usr/bin/ranlib libLR.a
